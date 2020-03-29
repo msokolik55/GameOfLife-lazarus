@@ -4,7 +4,7 @@
 Game of LIFE developed in Lazarus (Free Pascal) with built-in library Crt.
 
 ## Game process
-Zero-player game based on rules Conway's Game of LIFE (https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). The game shows generations until you press any button.
+Zero-player game based on rules [Conway's Game of LIFE](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). The game shows generations until you press any button.
 
 ## Rules
 - Any live cell with fewer than two live neighbours dies, as if by underpopulation.
